@@ -1,0 +1,15 @@
+# Sub-repositories — own git repos, coordinated by layout only (README § Setup)
+skills/
+orchestrator/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors / IDEs
+.idea/
+.vscode/
+*.swp
+
+# Local agent state
+.claude/settings.local.json
