@@ -1,3 +1,5 @@
+![Sakshi](assets/sakshi-tree.png)
+
 # Sakshi — the tooling family root
 
 Sakshi (साक्षी, "the witness") is the coordination layer for the AI Factory tooling: the skills package that defines how agents plan and work, and the orchestrator that executes a finished roadmap task by task. This root holds no runnable code — it exists so that every session and every doc can reference the sub-repositories by one guaranteed layout.
